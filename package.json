@@ -1,6 +1,8 @@
 {
   "dependencies": {
     "child_process": "^1.0.2",
-    "compressing": "^1.7.0"
+    "compressing": "^1.7.0",
+    "opn": "^6.0.0",
+    "robotjs": "^0.6.0"
   }
 }
